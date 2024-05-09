@@ -1,0 +1,12 @@
+modules/__pycache__
+modules/routes/__pycache__
+modules/seccionCliente/__pycache__
+modules/seccionUsuarios/__pycache__
+modules/seccionServicio/__pycache__
+modules/seccionVehiculos/__pycache__
+modules/Menu/__pycache__
+modules/Login/__pycache__
+modules/CTkSelector/__pycache__
+modules/vistaInicio/__pycache__
+modules/funcionesBasicas/__pycache__
+modules/CTkMessageBox/__pycache__

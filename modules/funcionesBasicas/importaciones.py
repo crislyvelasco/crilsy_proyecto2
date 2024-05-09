@@ -1,0 +1,18 @@
+import modules.Login.login as login
+import modules.vistaInicio.vistaInicio as inicio
+import modules.seccionCliente.RegistrarClienteEmpresa as clienteEmpresa
+import modules.seccionCliente.RegistrarClienteParticular as clienteParticular
+import modules.seccionServicio.RegistrarServicioParticular as servicioParticular
+import modules.seccionServicio.historial_servicio_particular as h_servicioParticular
+import modules.seccionVehiculos.RegistrarVehiculo as vehiculo
+import modules.seccionVehiculos.RegistrarMarca as marca
+import modules.seccionVehiculos.RegistrarModelo as modelo
+import modules.seccionVehiculos.ListaVehiculos as ListaVehiculo
+import modules.seccionVehiculos.ListaConductor as ListaConductor
+import modules.seccionVehiculos.datosVehiculo as DatosVehiculo
+import modules.seccionVehiculos.ActualizarDatos as ActualizarDatos
+
+
+
+import modules.funcionesBasicas.funcionesBasicas as funci
+import modules.funcionesBasicas.cargarDatos as datos
